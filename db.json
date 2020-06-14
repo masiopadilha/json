@@ -1,9 +1,15 @@
 {
-   "patients": {
-    "first_name": "typicode",
-    "last_name": "Heardman",
-    "treatment": "extraction",
-    "status": "In analysis",
-    "photo": "https://robohash.org/culpatemporeut.png?size=50x50&set=set1"      
+  "patients": [
+    {
+      "id": 1,
+      "first_name": "Arabelle",
+      "last_name": "Heardman",
+      "treatment": "extraction",
+      "status": "In analysis",
+      "photo": "https://robohash.org/culpatemporeut.png?size=50x50&set=set1"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
