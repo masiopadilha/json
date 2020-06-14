@@ -4,14 +4,6 @@
       "id": 1,
       "title": "hello"
     },
-    {
-      "id": 2,
-      "first_name": "Claybourne",
-      "last_name": "Burtwistle",
-      "treatment": "bone graft",
-      "status": "In treatment",
-      "photo": "https://robohash.org/quasexercitationemratione.jpg?size=50x50&set=set1"
-    }
   ],
   "profile": {
     "name": "typicode"
