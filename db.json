@@ -15,11 +15,7 @@
       "treatment": "extraction",
       "status": "In analysis",
       "photo": "https://robohash.org/culpatemporeut.png?size=50x50&set=set1"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
+    },
   {
   "id": 22,
   "first_name": "Raquel",
@@ -28,4 +24,8 @@
   "status": "After treatment",
   "photo": "https://robohash.org/reprehenderitmagnirem.bmp?size=50x50&set=set1"
 }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
 }
