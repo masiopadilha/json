@@ -10,13 +10,12 @@
     },
     {
       "id": 21,
-  "first_name": "Carola",
-  "last_name": "Lepope",
-  "treatment": "trauma",
-  "status": "Pretreatment",
-  "photo": "https://robohash.org/eainreprehenderit.png?size=50x50&set=set1"
-    }    
-    
+      "first_name": "Carola",
+      "last_name": "Lepope",
+      "treatment": "trauma",
+      "status": "Pretreatment",
+      "photo": "https://robohash.org/eainreprehenderit.png?size=50x50&set=set1"
+    },        
   ],
   "profile": {
     "name": "typicode"
