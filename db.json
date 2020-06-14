@@ -16,14 +16,14 @@
       "status": "In analysis",
       "photo": "https://robohash.org/culpatemporeut.png?size=50x50&set=set1"
     },
-  {
-  "id": 22,
-  "first_name": "Raquel",
-  "last_name": "Burker",
-  "treatment": "trauma",
-  "status": "After treatment",
-  "photo": "https://robohash.org/reprehenderitmagnirem.bmp?size=50x50&set=set1"
-}
+    {
+      "id": 22,
+      "first_name": "Raquel",
+      "last_name": "Burker",
+      "treatment": "trauma",
+      "status": "After treatment",
+      "photo": "https://robohash.org/reprehenderitmagnirem.bmp?size=50x50&set=set1"
+    }
   ],
   "profile": {
     "name": "typicode"
